@@ -1,5 +1,7 @@
 # 安装shadowsocks server，可能要安装python，更新pip
-pip install shadowsocks
+# pip install shadowsocks
+# 默认的pip是2.9，不支持aes-256-gcm加密，指定新的repo
+pip install https://github.com/shadowsocks/shadowsocks/archive/master.zip -U
 
 # 同步github上的脚本
 git clone https://github.com/jumpoutofworld/shadowsocks-script.git
