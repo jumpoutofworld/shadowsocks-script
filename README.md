@@ -1,0 +1,2 @@
+# shadowsocks-script
+快速在linode机器上安装配置shadowsocks服务器的脚本
