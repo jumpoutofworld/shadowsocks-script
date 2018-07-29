@@ -1,0 +1,12 @@
+{
+    "server":"your_public_IP_address",
+    "port_password":
+    {
+      "1381":"password1",
+      "1382":"password2",
+      "1383":"password3"
+    },
+    "timeout":600,
+    "method":"aes-256-gcm",
+    "fast_open": true
+}

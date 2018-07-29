@@ -1,0 +1,9 @@
+{
+    "server":"your_public_IP_address",
+    "server_port":8388,
+    "password":"your_password",
+    "timeout":600,
+    "method":"aes-256-gcm",
+    "fast_open": true
+}
+
