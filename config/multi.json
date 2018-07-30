@@ -7,6 +7,6 @@
       "1383":"password3"
     },
     "timeout":600,
-    "method":"chacha20-ietf-poly1305",
+    "method":"aes-256-cfb",
     "fast_open": true
 }
