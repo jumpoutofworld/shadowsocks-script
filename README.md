@@ -20,6 +20,9 @@
   如果采用默认的aes-256-cfb加密，可以简化
   * pip install shadowsocks
   
+  实际上，iOS系统上的ss client是瓶颈，中国区的appstore没有合法的客户端。包括 影梭、wingy、shadowrocket。所以只能用老版本client。
+  这些client不支持 aes-256-gcm和chacha20-ietf-poly1305。所以，最终推荐还是用aes-256-cfb。
+  
 
 
 ## 同步配置
