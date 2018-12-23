@@ -1,3 +1,18 @@
+Table of Contents
+=================
+
+   * [TODO：查看日志](#TODO:放到启动服务中的日志在哪里查看)
+   * [shadowsocks-script](#shadowsocks-script)
+      * [基础环境](#基础环境)
+      * [依赖的环境](#依赖的环境)
+      * [同步配置](#同步配置)
+      * [测试](#测试)
+      * [开机启动](#开机启动)
+      
+# TODO:放到启动服务中的日志在哪里查看
+
+目前新加坡的机器OK，但是不知道日志哪里看
+
 # shadowsocks-script
 
 快速在linode机器上安装配置shadowsocks服务器的相关配置。
